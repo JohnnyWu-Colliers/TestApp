@@ -1,0 +1,97 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.colliers-international.com" resolutions="1x" timestamp="1491435737559">
+  <folder name="css">
+    <file name="site_global.css" crc="3959402076"/>
+    <file name="index.css" crc="4097340035" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3849126041" ref="index"/>
+    <file name="webpro.js" crc="3770351119" ref="index"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="acne_studios_0216.svg" crc="12682031" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="acne_studios_0216_poster_.png" crc="3813520035" ref="index"/>
+    <file name="montgomery_0417-1-crop-u120.jpg" crc="3966362655" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="montgomery_0417-2-crop-u533.jpg" crc="200290881" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="montgomery_0417-3-crop-u559.jpg" crc="82877733" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="montgomery_0417-4-crop-u585.jpg" crc="192971564" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="montgomery_0417-5-crop-u611.jpg" crc="363370061" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="montgomery_0417-6-crop-u637.jpg" crc="3761223046" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="montgomery_0417-7-crop-u663.jpg" crc="360534886" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="montgomery_0417-8-crop-u689.jpg" crc="4291129337" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="montgomery_0417-9-crop-u715.jpg" crc="480244340" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="montgomery_505_0317-1-crop-u741.jpg" crc="357632423" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="montgomery_505_0317-2-crop-u767.jpg" crc="295030822" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="montgomery_505_0317-3-crop-u793.jpg" crc="4090050121" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="montgomery_505_0317-4-crop-u819.jpg" crc="3957660325" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="montgomery_505_0317-5-crop-u845.jpg" crc="170985197" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="montgomery_505_0317-6-crop-u871.jpg" crc="372914545" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="montgomery_505_0317-7-crop-u897.jpg" crc="515118986" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="montgomery_505_0317-8-crop-u923.jpg" crc="4113894603" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="montgomery_505_0317-9-crop-u949.jpg" crc="3994244137" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="montgomery_505_0317-10-crop-u975.jpg" crc="199967662" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="montgomery_505_0317-11-crop-u1001.jpg" crc="374758563" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="montgomery_505_0317-12-crop-u1027.jpg" crc="348667022" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="montgomery_505_0317-13-crop-u1053.jpg" crc="3978579944" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="adia_logo_0416.svg" crc="4017077707" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="adia_logo_0416_poster_.png" crc="3956636415" ref="index"/>
+  </folder>
+  <file name="index.html" crc="210073585" seo="true" mt="1491435023631" redirect="true"/>
+</manifest>
